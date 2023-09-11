@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+}
+
+#text {
+  text-align: center;
+  font-family: Jetbrains Mono;
+  color: aqua;
+  font-size: 150px;
+}
